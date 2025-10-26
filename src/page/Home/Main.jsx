@@ -5,10 +5,12 @@ import apple_TV_logo from "../../assets/images/icons/apple-tv-logo.png";
 import watch_logo from "../../assets/images/icons/watch-series5-logo.png";
 import arcade_logo from "../../assets/images/icons/arcade.png";
 
-import FirstThree from "../../components/Main/firstThree/FirstThree";
 
-import LastThree from "../../Components/Main/lastThree/LastThree"
-import AppleYoutube from "../../Components/YouTubeVideos/YoutubeVideos"
+import FirstThree from "../../Components/Main/firstThree/FirstThree.jsx"
+
+
+import LastThree from "../../Components/Main/lastThree/LastThree.jsx"
+import AppleYoutube from "../../Components/YouTubeVideos/YoutubeVideos.jsx"
 
 
 function Main() {
