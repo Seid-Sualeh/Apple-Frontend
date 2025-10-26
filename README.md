@@ -56,12 +56,14 @@ cd Apple-Frontend
 npm install
 ```
 4. Start the development server:
-  ``` npm run dev
+  ```
+ npm run dev
 ```
  6. Open your browser at
 
-```http://localhost:5173
-```
+
+http://localhost:5173
+
 ---
 
 🔹 Usage
