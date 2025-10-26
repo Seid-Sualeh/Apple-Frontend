@@ -1,0 +1,88 @@
+/* 
+
+
+
+
+/* key=AIzaSyB3fhdXue8cw0kVmc-gI1cS5aXhfqfcRG8
+ "id": "UCE_M8A5yxnLfW0KghEeajjw"
+  "id": "UCE_M8A5yxnLfW0KghEeajjw"
+
+
+ https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCE_M8A5yxnLfW0KghEeajjw&maxResults=8&key=AIzaSyB3fhdXue8cw0kVmc-gI1cS5aXhfqfcRG8  */
+
+
+
+
+
+
+/* Video Area */
+.allVideosWrapper {
+  background: #f3f2f2;
+  padding: 50px 0;
+  
+  width: 99%;
+  margin: auto;
+}
+.youtubeVideosWrapper {
+  background: #fff;
+  padding: 50px;
+}
+.singleVideoWrapper {
+  background: #f3f2f2;
+  box-shadow: 4px 0px 13px rgba(113, 92, 92, 0.12);
+  margin-bottom: 30px;
+  padding: 20px 2px;
+  border-radius: 5px;
+ 
+
+}
+
+.container :hover {
+  box-shadow: 4px 0px 13px rgba(92, 113, 97, 0.3);
+  transition: all 0.3s ease-in-out;
+
+}
+.videoInfoWrapper {
+  padding: 10px 20px;
+  text-align: left;
+}
+.videoDesc {
+  font-size: 16px;
+  color: #676767;
+  margin-bottom: 10px;
+  text-align: center;
+
+}
+.videoTitle {
+  font-weight: 700;
+ font-size: 20px;
+ text-align: center;
+}
+.videoTitle a {
+  color: #000;
+  text-decoration: none;
+  color: #0071e3;
+}
+.video-title-wrapper {
+  padding: 50px 0;
+}
+.active {
+  font-weight: bold;
+  color: #0071e3 !important;
+}
+image {
+  width: 100%;
+  height: auto;
+}
+
+.videoThumbnail{
+width: 100%;
+  /* margin: 20px 0; */
+}
+   .videoDate{
+    font-size: 14px;
+    color: #999;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 800;
+   }
