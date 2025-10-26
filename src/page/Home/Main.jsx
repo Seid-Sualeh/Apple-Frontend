@@ -103,7 +103,7 @@ function Main() {
       />
 
       {/* Youtube videos */}
-      {/* <AppleYoutube /> */}
+      <AppleYoutube />
     </div>
   );
 }
